@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 #### 🔭 2024 Goals:
 
-- Build a immersive personal portfolio with Three.js and WebGL
+- Build an immersive personal portfolio with Three.js and WebGL
 - Learn more about open source communities and contribute to them.
 
 ## 🚀 Skills
