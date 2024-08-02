@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ThreeJs** and **Blender**
 
-- 💬 Ask me about **react, nodejs, mongodb, expressjs, .NET MAUI, and MVVM pattern.**
+- 💬 Ask me about **React, Vue, NodeJs, MongoDB, ExpressJs, .NET MAUI, and MVVM pattern.**
 
 
 <h3 align="left">Connect with me:</h3>
