@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 
 #### What I'm currently working on:
 
-- 🌱 I’m currently learning **Vue.js**, **Three.js** and **Blender**
+> I’m currently learning **Vue.js**, **Three.js** and **Blender**
 
-#### 🔭 2024 Goals:
+#### Current Goals:
 
 - Build an immersive personal portfolio with Three.js and WebGL
 - Learn more about open source communities and contribute to them.
 
-## 🚀 Skills
+## 🚀 Skills & Knowledge
 
 ### 🌐 Frontend Development
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilomsha&theme=monokai-metallian&hide_border=true" alt="basilomsha" /></p>
 
 ## 📫 Connect with Me
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in//basil-omsha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil-omsha" height="30" width="40" /></a>
 </p>
