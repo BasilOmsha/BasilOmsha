@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in//basil-omsha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil-omsha" height="30" width="40" /></a>
 </p>
 </p> -->
-<h2 style="text-align: center;">🔥 Streak Stats</h2>
+<h2 align="center">🔥 Streak Stats</h2>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilomsha&theme=monokai-metallian&hide_border=true" alt="basilomsha" /></p>
-<h2 style="text-align: center;">📫 Connect with Me</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilomsha&theme=monokai-metallian&hide_border=true" alt="basilomsha" /></p>
+<h2 align="center">📫 Connect with Me</h2>
 <!-- ## 📫 Connect with Me -->
 <p align="center">
 <a href="https://linkedin.com/in//basil-omsha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil-omsha" height="30" width="40" /></a>
 </p>
 </p>
-<div style="text-align: center">
+<div align="center">
 <h3 style="text-align: center;"> Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h3>
 
 > I'm Basel, a Full Stack Developer based in Finland.
