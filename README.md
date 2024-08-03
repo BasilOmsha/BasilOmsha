@@ -16,23 +16,19 @@
     Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
   </h3>
 
-  <code align="center">
-    I'm Basel, a Full Stack Developer based in Finland.
-  </code>
+  <code >I'm Basel, a Full Stack Developer based in Finland.</code>
 
   <h3 style="text-align: center;"> 
     What I'm currently working on:
   </h3>
 
-  <code align="center">
-    I’m currently learning **Vue.js**, **Three.js** and **Blender**
-  </code>
+  <code>I’m currently learning **Vue.js**, **Three.js** and **Blender**</code>
 
   <h3 style="text-align: center;"> Current Goals:</h3>
 
-  <code align="center">- Build an immersive personal portfolio with Three.js and WebGL.</code>
+  <code>- Build an immersive personal portfolio with Three.js and WebGL.</code>
   <br>
-  <code align="center">- Learn more about open source communities and contribute to them.</code>
+  <code>- Learn more about open source communities and contribute to them.</code>
 
   <h2 style="text-align: center;">🚀 Skills & Knowledge</h2>
 
