@@ -1,6 +1,6 @@
 
 <h2 align="center">🔥 Streak Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilomsha&theme=monokai-metallian&hide_border=true" alt="basilomsha" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilomsha&theme=default&hide_border=true&border_radius=5.6" alt="GitHub Streak" /></p>
 
 <h2 align="center">📫 Connect with Me</h2>
   <!-- ## 📫 Connect with Me -->
