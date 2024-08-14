@@ -1,41 +1,26 @@
-<h2 align="center">🔥 Streak Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilomsha&theme=neon-blurange&hide_border=true&border_radius=5.6" alt="GitHub Streak" /></p>
+<h1>Hi, I'm Basel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
-<div align="center">
+👨‍💻 I'm a full-stack developer specializing in **MERN** stack. <br />
+💼 Currently looking for opportunities and expanding my knowledge  🚀 <br />
+🎓 I am a recent graduate with a bachalor's degree in Business Information Technology  issued by [HAMK](https://www.hamk.fi/en/?lang=en).
 
-![Github_stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basilomsha&theme=radical)![Productive_time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basilomsha&theme=radical&utcOffset=1)
+My experience includes but not limited to:
+- building an auditing website
+- building a .NET MAUI desktop application that reads and visualizes data from a LoRa Scanner
+- working with RESTful  API
 
-</div>
+In my free time I like to expand my knowledge by doing side projects, acquiring some experience in:
+- 3D rendering - Blender and Three.js
+- WebGl
+- Vue.js applications
 
-<h2 align="center">📫 Connect with Me</h2>
-  <!-- ## 📫 Connect with Me -->
-  <p align="center">
-  <a href="https://linkedin.com/in//basil-omsha/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil-omsha" height="30" width="40" />
-  </a>
-</p>
+ Current Goals:
+- Build an immersive personal portfolio with Three.js and WebGL.
+- Learn more about open source communities and contribute to them.
 
-<div align="center">
+📫 Connect with Me [LinkedIn](https://www.linkedin.com/in/basil-omsha/). I speak fluent English, Arabic, Spanish and Finnish.
 
-  <h3 style="text-align: center;"> 
-    Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-  </h3>
-
-  <code >I'm Basel, a Full Stack Developer based in Finland.</code>
-
-  <h3 style="text-align: center;"> 
-    What I'm currently working on:
-  </h3>
-
-  <code>I’m currently learning **Vue.js**, **Three.js** and **Blender**</code>
-
-  <h3 style="text-align: center;"> Current Goals:</h3>
-
-  <code>- Build an immersive personal portfolio with Three.js and WebGL.</code>
-  <br>
-  <code>- Learn more about open source communities and contribute to them.</code>
-
-  <h2 style="text-align: center;">🚀 Skills & Knowledge</h2>
+  <h2>🚀 Skills & Knowledge</h2>
 
   ### 🌐 Frontend Development
 
@@ -70,4 +55,8 @@
 
   ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
 
-</div>
+<h2>🔥Stats</h2>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilomsha&theme=neon-blurange&hide_border=true&border_radius=5.6" alt="GitHub Streak" />
+
+![Github_stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basilomsha&theme=transparent)
+![Productive_time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basilomsha&theme=transparent&utcOffset=1)
