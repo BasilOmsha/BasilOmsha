@@ -18,7 +18,7 @@ In my free time I like to expand my knowledge by doing side projects, acquiring 
 - Build an immersive personal portfolio with Three.js and WebGL.
 - Learn more about open source communities and contribute to them.
 
-📫 Connect with Me [LinkedIn](https://www.linkedin.com/in/basil-omsha/). I speak fluent English, Arabic, Spanish and Finnish.
+📫 Connect with Me [LinkedIn](https://www.linkedin.com/in/basil-omsha/). I speak fluent English, Arabic natively, good Spanish and Finnish.
 
   <h2>🚀 Skills & Knowledge</h2>
 
