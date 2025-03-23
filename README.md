@@ -5,11 +5,15 @@
 🎓 I am a recent graduate with a bachalor's degree in Business Information Technology  issued by [HAMK](https://www.hamk.fi/en/?lang=en).
 
 My experience includes but not limited to:
+- building a task management tool
 - building an auditing website
 - building a .NET MAUI desktop application that reads and visualizes data from a LoRa Scanner
 - working with RESTful  API
 
 In my free time I like to expand my knowledge by doing side projects, acquiring some experience in:
+- React (TypeScript)
+- ASP .NET Core (CLEAN architecture)
+- PostgreSQL
 - 3D rendering - Blender and Three.js
 - WebGl
 - Vue.js applications
