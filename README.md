@@ -16,7 +16,6 @@ In my free time I like to expand my knowledge by doing side projects, acquiring 
 - PostgreSQL
 - 3D rendering - Blender and Three.js
 - WebGl
-- Vue.js applications
 
  Current Goals:
 - Build an immersive personal portfolio with Three.js and WebGL.
