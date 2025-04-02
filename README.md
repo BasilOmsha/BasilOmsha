@@ -11,7 +11,7 @@ My experience includes but not limited to:
 - working with RESTful  API
 
 In my free time I like to expand my knowledge by doing side projects, acquiring some experience in:
-- React (TypeScript)
+- React (TypeScript and TanStack Query)
 - ASP .NET Core (CLEAN architecture)
 - PostgreSQL
 - 3D rendering - Blender and Three.js
