@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a full-stack developer specializing in **MERN** stack. <br />
 💼 Currently looking for opportunities and expanding my knowledge  🚀 <br />
-🎓 I am a recent graduate with a bachalor's degree in Business Information Technology  issued by [HAMK](https://www.hamk.fi/en/?lang=en).
+🎓 I hold degree in Business Information Technology  issued by [HAMK](https://www.hamk.fi/en/?lang=en).
 
 My experience includes but not limited to:
 - building a task management tool
