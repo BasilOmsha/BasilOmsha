@@ -14,7 +14,7 @@ In my free time I like to expand my knowledge by doing side projects, acquiring 
 - React (TypeScript and TanStack Query)
 - ASP .NET Core (CLEAN architecture)
 - PostgreSQL
-- 3D rendering - Blender and Three.js
+- 3D rendering: Blender and Three.js
 - WebGl
 
  Current Goals:
